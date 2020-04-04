@@ -1,6 +1,6 @@
-<mxfile modified="2020-04-03T23:29:21.582Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Kgwu8pWU9Pqu82d9KWA6" version="12.9.7" type="github">
+<mxfile modified="2020-04-04T03:58:48.897Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="PK8Sh0auZOLkBQNTQV_g" version="12.9.7" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="1422" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="822" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,6 +129,15 @@
           <mxGeometry x="0.5" width="32" height="50" relative="1" as="geometry">
             <mxPoint x="-16" y="10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B15-oemGp82HStO7Z6Im-27" value="Cloud SQL" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_sql" vertex="1" parent="1">
+          <mxGeometry x="210" y="630" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="B15-oemGp82HStO7Z6Im-28" value="Cloud&#xa;Spanner" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_spanner" vertex="1" parent="1">
+          <mxGeometry x="294" y="660" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="B15-oemGp82HStO7Z6Im-29" value="Cloud&#xa;Bigtable" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_bigtable" vertex="1" parent="1">
+          <mxGeometry x="114" y="521" width="66" height="58.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
